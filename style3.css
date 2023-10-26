@@ -17,18 +17,17 @@
 
 .div2{ 
     padding:50px;
-    position:absolute;
     width:80%;
     left:150px;
     bottom: 150px;
     text-align: center;
-    font-size:50px;
+    font-size:30px;
     
     
 
 }
 #link{
-    color:#708981
+    color:#23bc8c
   
    
 }
